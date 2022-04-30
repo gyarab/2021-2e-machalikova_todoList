@@ -18,7 +18,7 @@
                   <Font size="14.0" />
                </font>
             </Label>
-            <TextField fx:id="nazevS" prefHeight="44.0" prefWidth="312.0" promptText="Název souboru" />
+            <TextField fx:id="nazevNahrani" prefHeight="44.0" prefWidth="312.0" promptText="Název souboru" />
             <HBox alignment="CENTER" prefHeight="60.0" prefWidth="299.0">
                <children>
                   <Button fx:id="ulozit" mnemonicParsing="false" onAction="#UlozitSoubor" text="Uložit">
